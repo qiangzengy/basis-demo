@@ -12,7 +12,6 @@
         <module>jol-demo</module>
         <module>conllection-demo</module>
         <module>lock-demo</module>
-        <module>strategy-demo</module>
     </modules>
 
 

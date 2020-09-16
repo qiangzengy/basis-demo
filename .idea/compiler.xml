@@ -9,8 +9,10 @@
         <module name="jol-demo" />
         <module name="conllection-demo" />
         <module name="lock-demo" />
-        <module name="strategy-demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="strategy-demo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
